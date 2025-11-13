@@ -85,7 +85,7 @@ class _LoginPageState extends State<LoginPage> {
                   const SizedBox(height: 8),
                   
                   Text(
-                    'Rise a bit higher each day.',
+                    'Your habits grow like a plant.',
                     style: theme.textTheme.bodyLarge?.copyWith(
                       color: colorScheme.onSurface.withValues(alpha: 0.7),
                     ),
